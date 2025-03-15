@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alex McKenzie. I care a lot about mitigating risks from Artificial Intelligence. I also care about music, type systems, and climate change.
+I'm Alex McKenzie. I care a lot about mitigating risks from Artificial Intelligence. I also care about music, type systems, and Effective Altruism.
 
 I blog occasionally at [alexmck.com](https://alexmck.com).
 
